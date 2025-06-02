@@ -1,0 +1,14 @@
+#wrapper {
+  height: 100%;
+}
+.background {
+  position: relative;
+  width: 100%;
+}
+.artist-image {
+  border-radius: 100px;
+  height: 150px;
+  width: 150px;
+  overflow: hidden;
+  border: 1px solid #262626;
+}
