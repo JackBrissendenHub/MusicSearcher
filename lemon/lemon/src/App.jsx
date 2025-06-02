@@ -1,7 +1,5 @@
 import "./App.css";
 import Header from "./components/Header";
-import Toolbar from "./components/Toolbar";
-import Navigator from "./components/Navigator";
 import { useEffect, useState } from "react";
 
 const API_BASE_URL = "https://api.spotify.com/v1";
